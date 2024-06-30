@@ -6,7 +6,7 @@ h1 {
     color: white;
 }
 
-.ball {
+#ball {
     background-color: white;
     height: 5px;
     width: 5px;
